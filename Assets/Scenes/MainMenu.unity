@@ -200,8 +200,8 @@ Transform:
   m_GameObject: {fileID: 26730912}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.0036, y: -0.0329, z: 0}
-  m_LocalScale: {x: 16.074774, y: 10.060278, z: 1}
+  m_LocalPosition: {x: -0.0477, y: 0.0013, z: 0}
+  m_LocalScale: {x: 19.053839, y: 10.402039, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -391,7 +391,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: BREAK OUT
+  m_text: Brick or Treat
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 10086ae4fca2c9d4f882dca9c977725e, type: 2}
   m_sharedMaterial: {fileID: -3564511840010329722, guid: 10086ae4fca2c9d4f882dca9c977725e, type: 2}
@@ -1087,7 +1087,7 @@ RectTransform:
   m_GameObject: {fileID: 1827749648}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1444423781}
