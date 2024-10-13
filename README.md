@@ -4,10 +4,10 @@
 # Project Name
 Brick breaker game with a Halloween theme.
 
-Context and date
+Context and date: 
 Created for MSCH-C220 Game Technology class.
 
-Description
+Description:
 A juicy brick breaker game. It is Halloween themed because it is October and I thought it would be appropiate and fun to do.
 
 ## Implementation
